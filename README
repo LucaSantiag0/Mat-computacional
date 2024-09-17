@@ -1,0 +1,5 @@
+#Desenvolver uma aplicação que integre conceitos de Matemática Computacional e Análise de Dados utilizando o Excel ou um software matemático de sua escolha (como Python com bibliotecas de cálculo numérico). A tarefa consiste em coletar um conjunto de dados reais de uma área específica da Engenharia de Software (como desempenho de algoritmos, análise de complexidade ou estatísticas de uso de software), e em seguida, realizar modelagem matemática para identificar padrões e tendências. Os alunos deverão criar gráficos, realizar análise estatística descritiva e aplicar métodos numéricos para resolver problemas pertinentes aos dados analisados. Apresentar um relatório que conecte os resultados obtidos com as teorias aprendidas em outras disciplinas do curso, como Design de Interfaces e Inovação em Tecnologia da Informação.#
+
+
+Indicado que faça a instalação das seguintes bibliotecas;
+pip install pandas matplotlib seaborn scikit-learn
